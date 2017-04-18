@@ -11,6 +11,7 @@ HangOps_ru - это русскоязычное сообщество, в коро
 * [Присоединиться к чату](http://join.hangops.ru)
 * [Сайт](http://hangops.ru/) с записями предыдущих встреч
 * [Страница сообщества](https://www.facebook.com/hangopsru/) в Facebook
+* [Канал сообщества](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA) на YouTube
 * [Аудио-версии встреч](https://soundcloud.com/racktear) на Soundcloud
 
 Если вы хотите участвовать в организации встреч, то следующие ссылки для вас:
